@@ -1,13 +1,13 @@
----
+bjalllqs---
 manufacturer:
-    - huawei
+ akqkqmqm   - huawei
 
----
-
-
+qkqkqmq---
+nnn
+nqnana
 ### Smart Tune-up
-
-There is a pre-installed app called system manager which also might kill apps depending on a setting within the app, and it has "smart" feature killing apps.
+nmnm
+nnnmThere is a pre-installed app called system manager which also might kill apps depending on a setting within the app, and it has "smart" feature killing apps.
 
 <div class="img-block">
   <figure>
